@@ -24,3 +24,7 @@ Evaluate the performance using metrics such as accuracy, precision, recall, and 
          1.0       0.00      0.00      0.00       969
 
     accuracy                           0.93     13896
+
+Usage
+
+Download [Leads.csv](https://drive.google.com/file/d/1tOQqKv992-kLAfIQZtT03UNGnQgbTwEt/view?usp=sharing) and place it in your working directory.
