@@ -24,5 +24,3 @@ Evaluate the performance using metrics such as accuracy, precision, recall, and 
          1.0       0.00      0.00      0.00       969
 
     accuracy                           0.93     13896
-   macro avg       0.47      0.50      0.48     13896
-weighted avg       0.87      0.93      0.90     13896
